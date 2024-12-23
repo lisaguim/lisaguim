@@ -6,15 +6,18 @@ I'm Elisa! I'm Data Science student from Brazil.
 
 - 🌱 I am currently studying a postgraduate degree in Data Science at DSA. 
 
-- 😄 My goal is to one day work with AI and Machine Learning.
-
+- 🎯 My goal is to make a difference in the world through artificial intelligence.
+  
 <!--Dropdown-->
 <details>
     <summary> More about me </summary>
 
-- I have a bachelor's degree in production engineering
-  
-- Master data analyst at GSK
+- 📚 Bachelor’s degree in Production Engineering from IBMR and currently studying a postgraduate program in Data Science at the Data Science Academy.
+
+- 📈 Over 5 years of experience in the pharmaceutical industry in master data management and data governance.
+
+- 🥊 Passionate about continuous learning and a beginner in martial arts.
+
 </details>
 
 <!--statistic git-->
@@ -24,8 +27,12 @@ I'm Elisa! I'm Data Science student from Brazil.
 </div>
 
 <!-- links-->
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/elisa-guimarães/)
-[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white)]([https://www.kaggle.com/variablebee](https://www.kaggle.com/elisaguimares))
+<div align="center">
+    
+   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/elisa-guimarães/)
+   [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white)]([https://www.kaggle.com/variablebee](https://www.kaggle.com/elisaguimares))
+
+</div>
 
 <!-- Skills: Programming Language-->
 ## Skills
