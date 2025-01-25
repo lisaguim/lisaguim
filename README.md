@@ -47,7 +47,7 @@ src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/pyth
 <!-- Skills: Tools-->
 <div style="flex-basis: 48%;">
 <h3> Tools</h3>
-  <img align="center" alt="VScode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
+<!-- VS Code: <img align="center" alt="VScode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"> --> 
   <img align="center" alt="Jupyter" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg"/>
 </div>
 
