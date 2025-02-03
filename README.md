@@ -6,7 +6,7 @@ I'm Elisa! I'm Data Science student from Brazil.
 
 - 🌱 I am currently studying a postgraduate degree in Data Science at DSA. 
 
-- 🎯 My goal is to make a difference in the world through artificial intelligence.
+- 🎯 My goal is to make a difference in the world through the data.
   
 <!--Dropdown-->
 <details>
