@@ -4,7 +4,7 @@
 <!--Presentation-->
 I'm Elisa! I'm Data Science student from Brazil.
 
-- 🌱 I am currently studying a postgraduate degree in Data Science at DSA. 
+- 🌱 Data Science in Development. 
 
 - 🎯 My goal is to make a difference in the world through the data.
   
@@ -12,9 +12,9 @@ I'm Elisa! I'm Data Science student from Brazil.
 <details>
     <summary> More about me </summary>
 
-- 📚 Bachelor’s degree in Production Engineering from IBMR and currently studying a postgraduate program in Data Science at the Data Science Academy.
+- 📚 Bachelor’s degree in Production Engineering from IBMR and postgraduate program in Data Science at the Data Science Academy.
 
-- 📈 Over 5 years of experience in the pharmaceutical industry in master data management and data governance.
+- 📈 Over 5 years of experience in the pharmaceutical industry in master data management, data governance, automation process and dashboard development.
 
 - 🥊 Passionate about continuous learning and a beginner in martial arts.
 
